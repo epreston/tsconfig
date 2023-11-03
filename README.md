@@ -19,11 +19,8 @@ npm install @epreston/tsconfig --save-dev
 {
   "extends": "@epreston/tsconfig",
   "compilerOptions": {
-    /* Modules */
     "rootDir": ".",
     "baseUrl": ".",
-
-    /* Emit */
     "outDir": "temp"
   }
 }
