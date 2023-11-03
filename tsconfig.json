@@ -8,9 +8,7 @@
 
     /* Modules */
     "module": "es2022",
-    "rootDir": ".",
     "moduleResolution": "bundler",
-    "baseUrl": ".",
     "resolveJsonModule": false, // ESM doesn't yet support JSON modules.
 
     /* JavaScript Support */
