@@ -1,0 +1,41 @@
+{
+  "compilerOptions": {
+    /* Visit https://aka.ms/tsconfig to read more about this file */
+
+    /* Language and Environment */
+    "target": "es2022", // Node.js 18+
+    "lib": ["es2022", "dom", "dom.iterable"],
+
+    /* Modules */
+    "module": "es2022",
+    "rootDir": ".",
+    "moduleResolution": "bundler",
+    "baseUrl": ".",
+    "resolveJsonModule": false, // ESM doesn't yet support JSON modules.
+
+    /* JavaScript Support */
+    "allowJs": true,
+    "checkJs": true,
+    "maxNodeModuleJsDepth": 3,
+
+    /* Emit */
+    "sourceMap": false,
+
+    // Disabled because of https://github.com/Microsoft/TypeScript/issues/29172
+    // "outDir": "temp",
+
+    "removeComments": false,
+    "newLine": "lf",
+
+    /* Interop Constraints */
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+
+    /* Type Checking */
+    "noImplicitThis": true,
+
+    /* Completeness */
+    "skipLibCheck": true
+  }
+}

@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto eol=lf
+
+# Files to remove from language stats for this project
+CHANGELOG.md export-ignore
