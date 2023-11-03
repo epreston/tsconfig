@@ -44,5 +44,5 @@ This project is released under the MIT [License](LICENSE).
 
 [npm-badge]: https://img.shields.io/npm/v/@epreston/tsconfig
 [npm-url]: https://www.npmjs.com/package/@epreston/tsconfig
-[license-badge]: https://img.shields.io/npm/l/@epreston/tsconfig.svg
+[license-badge]: https://img.shields.io/npm/l/@epreston/tsconfig
 [license-url]: LICENSE
