@@ -2,8 +2,9 @@
 * text=auto eol=lf
 
 # Files to remove from language stats for this project
-CHANGELOG.md export-ignore
+# *.js linguist-vendored
 
+CHANGELOG.md export-ignore
 LICENSE eol=crlf
 
 # Binary file types.
