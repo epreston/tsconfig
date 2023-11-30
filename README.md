@@ -15,7 +15,7 @@ npm install @epreston/tsconfig --save-dev
 
 `tsconfig.json`
 
-```json
+```jsonc
 {
   "extends": "@epreston/tsconfig",
   "compilerOptions": {
@@ -26,11 +26,11 @@ npm install @epreston/tsconfig --save-dev
 
 ## Tools
 
-| Tool         | Reference                       |
-| ------------ | ------------------------------- |
-| TypeScript   | https://www.typescriptlang.org/ |
-| Node.js      | https://nodejs.org/             |
-| EditorConfig | https://editorconfig.org        |
+| Tool         | Reference                      |
+| ------------ | ------------------------------ |
+| TypeScript   | https://www.typescriptlang.org |
+| Node.js      | https://nodejs.org             |
+| EditorConfig | https://editorconfig.org       |
 
 ## References
 
