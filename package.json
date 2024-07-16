@@ -26,8 +26,5 @@
     "typescript": {
       "optional": true
     }
-  },
-  "engines": {
-    "node": "^18.0.0 || >=20.0.0"
   }
 }
