@@ -1,6 +1,6 @@
 {
   "name": "@epreston/tsconfig",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Shared TypeScript TSConfig Base for my projects",
   "exports": "./tsconfig.json",
   "sideEffects": false,
