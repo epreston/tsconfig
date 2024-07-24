@@ -3,7 +3,15 @@
   "name": "@epreston/tsconfig",
   "version": "1.2.1",
   "description": "Shared TypeScript TSConfig Base for my projects",
+  "author": "Ed Preston",
+  "license": "MIT",
+  "repository": "github:epreston/tsconfig",
+  "bugs": "https://github.com/epreston/tsconfig/issues",
+  "homepage": "https://github.com/epreston/tsconfig/tree/main/#readme",
   "exports": "./tsconfig.json",
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "tsconfig.json"
   ],
@@ -12,11 +20,6 @@
     "shared",
     "configuration"
   ],
-  "author": "Ed Preston",
-  "license": "MIT",
-  "repository": "github:epreston/tsconfig",
-  "bugs": "https://github.com/epreston/tsconfig/issues",
-  "homepage": "https://github.com/epreston/tsconfig/tree/main/#readme",
   "peerDependencies": {
     "typescript": "*"
   },
