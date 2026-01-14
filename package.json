@@ -5,7 +5,10 @@
   "description": "Shared TypeScript TSConfig Base for my projects",
   "author": "Ed Preston",
   "license": "MIT",
-  "repository": "github:epreston/tsconfig",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epreston/tsconfig.git"
+  },
   "bugs": "https://github.com/epreston/tsconfig/issues",
   "homepage": "https://github.com/epreston/tsconfig/tree/main/#readme",
   "exports": "./tsconfig.json",
