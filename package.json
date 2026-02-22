@@ -11,18 +11,19 @@
   },
   "bugs": "https://github.com/epreston/tsconfig/issues",
   "homepage": "https://github.com/epreston/tsconfig/tree/main/#readme",
-  "exports": "./tsconfig.json",
+  "keywords": [
+    "tsconfig",
+    "shared",
+    "configuration"
+  ],
   "publishConfig": {
     "access": "public"
   },
   "files": [
     "tsconfig.json"
   ],
-  "keywords": [
-    "tsconfig",
-    "shared",
-    "configuration"
-  ],
+  "exports": "./tsconfig.json",
+  "packageManager": "npm@11.10.1",
   "peerDependencies": {
     "typescript": "*"
   },
