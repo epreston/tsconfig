@@ -23,7 +23,7 @@
     "tsconfig.json"
   ],
   "exports": "./tsconfig.json",
-  "packageManager": "npm@11.10.1",
+  "packageManager": "npm@12.2.0",
   "peerDependencies": {
     "typescript": "*"
   },
